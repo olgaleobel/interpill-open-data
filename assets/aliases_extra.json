@@ -1,9 +1,140 @@
 {
   "aliasToInn": {
+    // --- Нитраты (GTN/isosorbide) ---
+    "nitrostat": "glyceryl trinitrate",
+    "nitrolingual": "glyceryl trinitrate",
+    "nitromist": "glyceryl trinitrate",
+    "tridil": "glyceryl trinitrate",
+    "minitran": "glyceryl trinitrate",
+    "deponit": "glyceryl trinitrate",
+    "nitro-bid": "glyceryl trinitrate",
+    "rectiv": "glyceryl trinitrate",
+
+    "ismo": "isosorbide mononitrate",
+    "dilatrate": "isosorbide dinitrate",
+    "dilatrate-sr": "isosorbide dinitrate",
+    "sorbitrate": "isosorbide dinitrate",
+
+    // --- PDE-5 ---
+    "viagra": "sildenafil",
+    "revatio": "sildenafil",
+    "cialis": "tadalafil",
+    "adcirca": "tadalafil",
+    "levitra": "vardenafil",
+    "stendra": "avanafil",
+
+    // --- БКК (calcium channel blockers) ---
     "plendil": "felodipine",
-    "norco": "co codamol",
-    "typo-paracitamol": "paracetamol",
-    "nitrostat": "glyceryl trinitrate"
+    "cardizem": "diltiazem",
+    "tiazac": "diltiazem",
+    "dilzem": "diltiazem",
+    "procardia": "nifedipine",
+    "procardia xl": "nifedipine",
+    "adalat": "nifedipine",
+    "verelan": "verapamil",
+    "covera": "verapamil",
+    "cardene": "nicardipine",
+    "sular": "nisoldipine",
+
+    // --- Бета-блокаторы ---
+    "inderal": "propranolol",
+    "coreg": "carvedilol",
+    "bystolic": "nebivolol",
+    "trandate": "labetalol",
+    "sectral": "acebutolol",
+    "blocadren": "timolol",
+
+    // --- ИАПФ/БРА ---
+    "zestril": "lisinopril",
+    "prinivil": "lisinopril",
+    "vasotec": "enalapril",
+    "altace": "ramipril",
+    "lotensin": "benazepril",
+    "accupril": "quinapril",
+    "mavik": "trandolapril",
+    "monopril": "fosinopril",
+
+    "benicar": "olmesartan",
+    "atacand": "candesartan",
+    "teveten": "eprosartan",
+
+    // --- Липиды ---
+    "lescol": "fluvastatin",
+    "livalo": "pitavastatin",
+
+    // --- СД2 / сахароснижающие ---
+    "amaryl": "glimepiride",
+    "glucotrol": "glipizide",
+    "diabeta": "glyburide",
+    "micronase": "glyburide",
+    "glynase": "glyburide",
+
+    "jardiance": "empagliflozin",
+    "farxiga": "dapagliflozin",
+    "invokana": "canagliflozin",
+
+    "rybelsus": "semaglutide",
+    "ozempic": "semaglutide",
+    "trulicity": "dulaglutide",
+    "bydureon": "exenatide",
+    "victoza": "liraglutide",
+
+    "actos": "pioglitazone",
+    "avandia": "rosiglitazone",
+    "starlix": "nateglinide",
+    "prandin": "repaglinide",
+
+    // Инсулины (полезны для подсказок)
+    "tresiba": "insulin degludec",
+    "lantus": "insulin glargine",
+    "levemir": "insulin detemir",
+    "humalog": "insulin lispro",
+    "novolog": "insulin aspart",
+
+    // --- ЖКТ / противорвотные ---
+    "reglan": "metoclopramide",
+    "carafate": "sucralfate",
+    "phenergan": "promethazine",
+
+    // --- Антиаритмики ---
+    "pacerone": "amiodarone",
+    "tikosyn": "dofetilide",
+    "multaq": "dronedarone",
+    "tambocor": "flecainide",
+    "rythmol": "propafenone",
+
+    // --- Антимикробные / прочие ---
+    "keflex": "cephalexin",
+    "omnicef": "cefdinir",
+    "suprax": "cefixime",
+    "ceftin": "cefuroxime",
+    "fortaz": "ceftazidime",
+    "claforan": "cefotaxime",
+    "rocephin": "ceftriaxone",
+    "bactroban": "mupirocin",
+    "vancocin": "vancomycin",
+    "lamisil": "terbinafine",
+
+    // --- Триптаны (мигрень) ---
+    "imitrex": "sumatriptan",
+    "maxalt": "rizatriptan",
+    "relpax": "eletriptan",
+    "zomig": "zolmitriptan",
+    "amerge": "naratriptan",
+
+    // --- Респираторные ---
+    "spiriva": "tiotropium",
+    "singulair": "montelukast",
+    "xopenex": "levalbuterol",
+
+    // --- Комбинации (используем " + ") ---
+    "norco": "hydrocodone + paracetamol",
+    "vicodin": "hydrocodone + paracetamol",
+    "percocet": "oxycodone + paracetamol",
+    "advair": "fluticasone + salmeterol",
+    "symbicort": "budesonide + formoterol",
+    "breo": "fluticasone + vilanterol",
+    "zosyn": "piperacillin + tazobactam"
   },
-  "version": 1
+  "version": 2
 }
