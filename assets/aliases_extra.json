@@ -2,7 +2,8 @@
   "aliasToInn": {
     "plendil": "felodipine",
     "norco": "co codamol",
-    "typo-paracitamol": "paracetamol"
+    "typo-paracitamol": "paracetamol",
+    "nitrostat": "glyceryl trinitrate"
   },
   "version": 1
 }
