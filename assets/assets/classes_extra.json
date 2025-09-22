@@ -1,0 +1,7 @@
+{
+  "classes": {
+    "ssri": ["Fluoxetine","Sertraline","Paroxetine","Citalopram","Escitalopram","Fluvoxamine"],
+    "pde5": ["Sildenafil","Tadalafil","Vardenafil","Avanafil"]
+  },
+  "version": 1
+}
