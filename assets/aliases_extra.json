@@ -135,10 +135,14 @@
     "symbicort": "budesonide + formoterol",
     "breo": "fluticasone + vilanterol",
     "zosyn": "piperacillin + tazobactam",
+
+    //more
     "panadol": "paracetamol",
     "nitroglycerin": "glyceryl trinitrate",
     "acetylsalicylic acid": "aspirin",
-    "asa": "aspirin"
+    "asa": "aspirin",
+    "coumadin": "warfarin",
+    "jantoven": "warfarin"
   },
   "version": 2
 }
