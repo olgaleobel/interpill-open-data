@@ -28,7 +28,7 @@
   "lhs": ["nsaid"],
   "rhs": ["nsaid"],
   "severity": "MODERATE",
-  "message": "Two NSAIDs → increased GI/renal risk; avoid duplication or use with caution.",
+  "message": "Two NSAIDs \u2192 increased GI/renal risk; avoid duplication or use with caution.",
   "sources": ["label:NSAIDs","guideline:BMJ"]
 }
 
