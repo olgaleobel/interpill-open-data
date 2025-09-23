@@ -136,7 +136,9 @@
     "breo": "fluticasone + vilanterol",
     "zosyn": "piperacillin + tazobactam",
     "panadol": "paracetamol",
-    "nitroglycerin": "glyceryl trinitrate"
+    "nitroglycerin": "glyceryl trinitrate",
+    "acetylsalicylic acid": "aspirin",
+    "asa": "aspirin"
   },
   "version": 2
 }
