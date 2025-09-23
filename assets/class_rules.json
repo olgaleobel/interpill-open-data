@@ -22,6 +22,15 @@
       "severity": "HIGH",
       "message": "Anticoagulant + NSAID \u2192 increased bleeding risk (avoid / monitor).",
       "sources": ["UpToDate","label:warfarin"]
-    }
+    },
+    {
+  "id": "nsaid+nsaid",
+  "lhs": ["nsaid"],
+  "rhs": ["nsaid"],
+  "severity": "MODERATE",
+  "message": "Two NSAIDs → increased GI/renal risk; avoid duplication or use with caution.",
+  "sources": ["label:NSAIDs","guideline:BMJ"]
+}
+
   ]
 }
