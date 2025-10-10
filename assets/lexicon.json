@@ -1,0 +1,17 @@
+{
+  "known_drugs": [
+    "Paracetamol","Ibuprofen","Omeprazole","Amoxicillin",
+    "Loratadine","Cetirizine","Aspirin","Metformin",
+    "Simvastatin","Atorvastatin","Losartan","Lisinopril",
+    "Furosemide","Salbutamol","Epinephrine","Adrenaline",
+    "Norepinephrine","Noradrenaline","Dapagliflozin",
+    "Pantoprazole","Esomeprazole","Diclofenac"
+  ],
+  "aliases": {
+    "acetaminophen":"Paracetamol",
+    "paracetamol":"Paracetamol",
+    "adrenaline":"Epinephrine",
+    "noradrenaline":"Norepinephrine",
+    "ibu":"Ibuprofen"
+  }
+}
