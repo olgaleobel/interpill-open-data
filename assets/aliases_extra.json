@@ -142,7 +142,12 @@
     "acetylsalicylic acid": "aspirin",
     "asa": "aspirin",
     "coumadin": "warfarin",
-    "jantoven": "warfarin"
+    "jantoven": "warfarin",
+    "epipen": "adrenaline",
+    "epipen jr": "adrenaline",
+    "epipen junior": "adrenaline",
+    "jext": "adrenaline",
+    "emerade": "adrenaline"
   },
   "version": 2
 }
