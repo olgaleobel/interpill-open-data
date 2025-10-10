@@ -1,11 +1,31 @@
 {
   "known_drugs": [
-    "Paracetamol","Ibuprofen","Omeprazole","Amoxicillin",
-    "Loratadine","Cetirizine","Aspirin","Metformin",
-    "Simvastatin","Atorvastatin","Losartan","Lisinopril",
-    "Furosemide","Salbutamol","Epinephrine","Adrenaline",
-    "Norepinephrine","Noradrenaline","Dapagliflozin",
-    "Pantoprazole","Esomeprazole","Diclofenac", "Gaviscon"
+    "Paracetamol", "Ibuprofen", "Aspirin", "Diclofenac", "Naproxen", "Codeine", "Dihydrocodeine", "Tramadol", "Morphine", "Oxycodone", "Fentanyl", "Buprenorphine",
+"Metformin", "Gliclazide", "Sitagliptin", "Dapagliflozin", "Empagliflozin", "Insulin human", "Levothyroxine", "Carbimazole", "Propylthiouracil",
+"Atorvastatin", "Simvastatin", "Rosuvastatin", "Pravastatin", "Amlodipine", "Lisinopril", "Ramipril", "Enalapril", "Perindopril", "Losartan", "Candesartan", "Valsartan",
+"Bisoprolol", "Atenolol", "Propranolol", "Metoprolol", "Furosemide", "Bendroflumethiazide", "Indapamide", "Spironolactone",
+"Omeprazole", "Lansoprazole", "Esomeprazole", "Pantoprazole", "Rabeprazole", "Ranitidine", "Gaviscon", "Gaviscon Advance", "Pepto-Bismol", "Rennie", "Tums",
+"Salbutamol", "Terbutaline", "Ipratropium", "Tiotropium", "Budesonide", "Beclometasone", "Fluticasone", "Formoterol", "Salmeterol", "Montelukast",
+"Amoxicillin", "Co-amoxiclav", "Flucloxacillin", "Phenoxymethylpenicillin", "Doxycycline", "Clarithromycin", "Azithromycin", "Metronidazole", "Nitrofurantoin", "Trimethoprim", "Cefalexin",
+"Aciclovir", "Valaciclovir", "Oseltamivir", "Loratadine", "Cetirizine", "Fexofenadine", "Chlorphenamine",
+"Pseudoephedrine", "Phenylephrine", "Oxymetazoline", "Xylometazoline", "Hydrocortisone", "Betamethasone", "Clobetasol", "Mometasone", "Triamcinolone",
+"Clotrimazole", "Miconazole", "Fluconazole", "Terbinafine", "Nystatin", "Co-codamol", "Paramol", "Solpadeine", "Nurofen", "Panadol", "Anadin",
+"Diazepam", "Lorazepam", "Zopiclone", "Zolpidem", "Sertraline", "Citalopram", "Escitalopram", "Fluoxetine", "Paroxetine", "Venlafaxine", "Duloxetine", "Mirtazapine", "Amitriptyline",
+"Quetiapine", "Olanzapine", "Risperidone", "Aripiprazole", "Gabapentin", "Pregabalin", "Carbamazepine", "Sodium valproate", "Lamotrigine", "Levetiracetam", 
+"Sumatriptan", "Rizatriptan", "Zolmitriptan", "Propranolol LA", "Warfarin", "Apixaban", "Rivaroxaban", "Dabigatran", "Edoxaban", "Clopidogrel", "Aspirin low dose",
+"Isosorbide mononitrate", "Glyceryl trinitrate", "Nicorandil", "Ferrous fumarate", "Ferrous sulfate", "Folic acid", "Cyanocobalamin",
+"Contraceptive pill", "Microgynon", "Rigevidon", "Cerazette", "Desogestrel", "Levonorgestrel", "EllaOne", "Mirena", "Copper IUD",
+"Levocetirizine", "Acrivastine", "Lidocaine", "Eutectic lidocaine/prilocaine", "EMLA", "Chlorhexidine", "Povidone-iodine",
+"Docusate", "Senna", "Bisacodyl", "Lactulose", "Macrogol", "Fybogel", "Loperamide", "Oral rehydration salts", "Ondansetron", "Cyclizine", "Prochlorperazine",
+"Alendronic acid", "Risedronate", "Ibandronic acid", "Zoledronic acid", "Denosumab", "Calcium carbonate", "Colecalciferol",
+"Allopurinol", "Colchicine", "Febuxostat", "Tamsulosin", "Finasteride", "Oxybutynin", "Mirabegron", "Tolterodine", "Solifenacin",
+"Sildenafil", "Tadalafil", "Adrenaline", "Epinephrine", "EpiPen", "Hyoscine", "Scopolamine", "Hyoscine butylbromide", "Buscopan",
+"Metoclopramide", "Domperidone", "Orlistat", "Prednisolone", "Dexamethasone", "Methotrexate", "Sulfasalazine", "Hydroxychloroquine",
+"Azathioprine", "Amiodarone", "Digoxin", "Levonorgestrel emergency", "Nicotine gum", "Nicotine patch", "Varenicline",
+"Zinc oxide", "Calamine", "Diphenhydramine", "Hydrocortisone cream", "Glyceryl trinitrate ointment", "Cholecalciferol", "Ergocalciferol",
+"Esomeprazole magnesium", "Sodium alginate", "Potassium bicarbonate", "Magnesium carbonate", "Acetylcysteine", "Co-trimoxazole", "Trimethoprim-sulfamethoxazole",
+"Aluminium hydroxide", "Magnesium hydroxide", "Bismuth subsalicylate", "Sodium valproate", "Valproic acid"
+
   ],
   "aliases": {
     "acetaminophen":"Paracetamol",
