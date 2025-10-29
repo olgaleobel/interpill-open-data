@@ -33,14 +33,11 @@
     "Acetazolamide", "Ticagrelor loading dose","Pravastatin sodium"],
   
   "aliases": {
-    /* Core synonyms */
     "acetaminophen": "Paracetamol",
     "paracetamol": "Paracetamol",
     "adrenaline": "Epinephrine",
     "noradrenaline": "Norepinephrine",
     "ibu": "Ibuprofen",
-
-    /* NSAIDs & analgesics (brands → INN) */
     "advil": "Ibuprofen",
     "motrin": "Ibuprofen",
     "brufen": "Ibuprofen",
@@ -60,8 +57,6 @@
     "voltarol": "Diclofenac",
     "voltaren": "Diclofenac",
     "naprosyn": "Naproxen",
-
-    /* PPIs & antacids */
     "losec": "Omeprazole",
     "zoton": "Lansoprazole",
     "nexium": "Esomeprazole",
@@ -71,8 +66,6 @@
     "tums antacid": "Tums",
     "rennies": "Rennie",
     "zantac": "Ranitidine",
-
-    /* Respiratory (inhalers & combos) */
     "seretide": "Fluticasone/salmeterol",
     "symbicort": "Budesonide/formoterol",
     "fostair": "Beclometasone/formoterol",
@@ -80,16 +73,12 @@
     "atrovent": "Ipratropium",
     "clenil": "Beclometasone",
     "flixotide": "Fluticasone",
-
-    /* Allergies/antihistamines */
     "claritin": "Loratadine",
     "zyrtec": "Cetirizine",
     "benadryl": "Acrivastine",
     "piriteze": "Cetirizine",
     "piriton": "Chlorphenamine",
     "levocet": "Levocetirizine",
-
-    /* Cough-cold OTC combos (map to main actives for safety baseline) */
     "lemsip": "Paracetamol",
     "lemsip max": "Paracetamol",
     "day nurse": "Paracetamol",
@@ -97,23 +86,17 @@
     "beechams": "Paracetamol",
     "robitussin dm": "Dextromethorphan",
     "benylin chesty": "Guaifenesin",
-
-    /* Anti-infectives */
     "augmentin": "Co-amoxiclav",
     "keflex": "Cefalexin",
     "flagyl": "Metronidazole",
     "zovirax": "Aciclovir",
     "diflucan": "Fluconazole",
-
-    /* Diabetes & endocrine */
     "glucophage": "Metformin",
     "januvia": "Sitagliptin",
     "forxiga": "Dapagliflozin",
     "jardiance": "Empagliflozin",
     "synthroid": "Levothyroxine",
     "eltroxin": "Levothyroxine",
-
-    /* Lipids & cardiology */
     "lipitor": "Atorvastatin",
     "crestor": "Rosuvastatin",
     "zocor": "Simvastatin",
@@ -122,8 +105,6 @@
     "nitrolingual": "Glyceryl trinitrate",
     "gtn": "Glyceryl trinitrate",
     "gtn spray": "Glyceryl trinitrate",
-
-    /* CNS & psych */
     "seroquel": "Quetiapine",
     "zyprexa": "Olanzapine",
     "risperdal": "Risperidone",
@@ -134,40 +115,24 @@
     "lamictal": "Lamotrigine",
     "keppra": "Levetiracetam",
     "depakote": "Sodium valproate",
-
-    /* Urology & men’s health */
     "flomax": "Tamsulosin",
     "proscar": "Finasteride",
-
-    /* Nausea/GI */
     "zofran": "Ondansetron",
     "motilium": "Domperidone",
     "maxolon": "Metoclopramide",
     "imodium": "Loperamide",
     "movicol": "Macrogol",
-
-    /* Dermatology & topical */
     "canesten": "Clotrimazole",
     "daktarin": "Miconazole",
     "nizoral shampoo": "Ketoconazole shampoo",
     "emla": "Eutectic lidocaine/prilocaine",
-
-    /* Women’s health & contraception */
     "morning after pill": "Levonorgestrel emergency",
     "ellaone": "EllaOne",
-
-    /* Smoking cessation */
     "nicorette gum": "Nicotine gum",
     "nicorette patch": "Nicotine patch",
     "champix": "Varenicline",
-
-    /* Antiemergency / anaphylaxis */
     "epipen": "Epinephrine",
-
-    /* Antispasmodics */
     "buscopan": "Hyoscine butylbromide",
-
-    /* Misc */
     "moviprep": "Sodium picosulfate",
     "oral morph": "Oral morphine solution",
     "chlorhexidine gluconate": "Chlorhexidine",
