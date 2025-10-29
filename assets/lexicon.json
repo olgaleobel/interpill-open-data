@@ -1,37 +1,197 @@
 {
   "known": [
     "Paracetamol", "Ibuprofen", "Aspirin", "Diclofenac", "Naproxen", "Codeine", "Dihydrocodeine", "Tramadol", "Morphine", "Oxycodone", "Fentanyl", "Buprenorphine",
-"Metformin", "Gliclazide", "Sitagliptin", "Dapagliflozin", "Empagliflozin", "Insulin human", "Levothyroxine", "Carbimazole", "Propylthiouracil",
-"Atorvastatin", "Simvastatin", "Rosuvastatin", "Pravastatin", "Amlodipine", "Lisinopril", "Ramipril", "Enalapril", "Perindopril", "Losartan", "Candesartan", "Valsartan",
-"Bisoprolol", "Atenolol", "Propranolol", "Metoprolol", "Furosemide", "Bendroflumethiazide", "Indapamide", "Spironolactone",
-"Omeprazole", "Lansoprazole", "Esomeprazole", "Pantoprazole", "Rabeprazole", "Ranitidine", "Gaviscon", "Gaviscon Advance", "Pepto-Bismol", "Rennie", "Tums",
-"Salbutamol", "Terbutaline", "Ipratropium", "Tiotropium", "Budesonide", "Beclometasone", "Fluticasone", "Formoterol", "Salmeterol", "Montelukast",
-"Amoxicillin", "Co-amoxiclav", "Flucloxacillin", "Phenoxymethylpenicillin", "Doxycycline", "Clarithromycin", "Azithromycin", "Metronidazole", "Nitrofurantoin", "Trimethoprim", "Cefalexin",
-"Aciclovir", "Valaciclovir", "Oseltamivir", "Loratadine", "Cetirizine", "Fexofenadine", "Chlorphenamine",
-"Pseudoephedrine", "Phenylephrine", "Oxymetazoline", "Xylometazoline", "Hydrocortisone", "Betamethasone", "Clobetasol", "Mometasone", "Triamcinolone",
-"Clotrimazole", "Miconazole", "Fluconazole", "Terbinafine", "Nystatin", "Co-codamol", "Paramol", "Solpadeine", "Nurofen", "Panadol", "Anadin",
-"Diazepam", "Lorazepam", "Zopiclone", "Zolpidem", "Sertraline", "Citalopram", "Escitalopram", "Fluoxetine", "Paroxetine", "Venlafaxine", "Duloxetine", "Mirtazapine", "Amitriptyline",
-"Quetiapine", "Olanzapine", "Risperidone", "Aripiprazole", "Gabapentin", "Pregabalin", "Carbamazepine", "Sodium valproate", "Lamotrigine", "Levetiracetam", 
-"Sumatriptan", "Rizatriptan", "Zolmitriptan", "Propranolol LA", "Warfarin", "Apixaban", "Rivaroxaban", "Dabigatran", "Edoxaban", "Clopidogrel", "Aspirin low dose",
-"Isosorbide mononitrate", "Glyceryl trinitrate", "Nicorandil", "Ferrous fumarate", "Ferrous sulfate", "Folic acid", "Cyanocobalamin",
-"Contraceptive pill", "Microgynon", "Rigevidon", "Cerazette", "Desogestrel", "Levonorgestrel", "EllaOne", "Mirena", "Copper IUD",
-"Levocetirizine", "Acrivastine", "Lidocaine", "Eutectic lidocaine/prilocaine", "EMLA", "Chlorhexidine", "Povidone-iodine",
-"Docusate", "Senna", "Bisacodyl", "Lactulose", "Macrogol", "Fybogel", "Loperamide", "Oral rehydration salts", "Ondansetron", "Cyclizine", "Prochlorperazine",
-"Alendronic acid", "Risedronate", "Ibandronic acid", "Zoledronic acid", "Denosumab", "Calcium carbonate", "Colecalciferol",
-"Allopurinol", "Colchicine", "Febuxostat", "Tamsulosin", "Finasteride", "Oxybutynin", "Mirabegron", "Tolterodine", "Solifenacin",
-"Sildenafil", "Tadalafil", "Adrenaline", "Epinephrine", "EpiPen", "Hyoscine", "Scopolamine", "Hyoscine butylbromide", "Buscopan",
-"Metoclopramide", "Domperidone", "Orlistat", "Prednisolone", "Dexamethasone", "Methotrexate", "Sulfasalazine", "Hydroxychloroquine",
-"Azathioprine", "Amiodarone", "Digoxin", "Levonorgestrel emergency", "Nicotine gum", "Nicotine patch", "Varenicline",
-"Zinc oxide", "Calamine", "Diphenhydramine", "Hydrocortisone cream", "Glyceryl trinitrate ointment", "Cholecalciferol", "Ergocalciferol",
-"Esomeprazole magnesium", "Sodium alginate", "Potassium bicarbonate", "Magnesium carbonate", "Acetylcysteine", "Co-trimoxazole", "Trimethoprim-sulfamethoxazole",
-"Aluminium hydroxide", "Magnesium hydroxide", "Bismuth subsalicylate", "Sodium valproate", "Valproic acid", "Norethisterone", "Phenergan", "Melatonin", "Betahistine"
+    "Metformin", "Gliclazide", "Sitagliptin", "Dapagliflozin", "Empagliflozin", "Insulin human", "Levothyroxine", "Carbimazole", "Propylthiouracil",
+    "Atorvastatin", "Simvastatin", "Rosuvastatin", "Pravastatin", "Amlodipine", "Lisinopril", "Ramipril", "Enalapril", "Perindopril", "Losartan", "Candesartan", "Valsartan",
+    "Bisoprolol", "Atenolol", "Propranolol", "Metoprolol", "Furosemide", "Bendroflumethiazide", "Indapamide", "Spironolactone",
+    "Omeprazole", "Lansoprazole", "Esomeprazole", "Pantoprazole", "Rabeprazole", "Ranitidine", "Gaviscon", "Gaviscon Advance", "Pepto-Bismol", "Rennie", "Tums",
+    "Salbutamol", "Terbutaline", "Ipratropium", "Tiotropium", "Budesonide", "Beclometasone", "Fluticasone", "Formoterol", "Salmeterol", "Montelukast",
+    "Amoxicillin", "Co-amoxiclav", "Flucloxacillin", "Phenoxymethylpenicillin", "Doxycycline", "Clarithromycin", "Azithromycin", "Metronidazole", "Nitrofurantoin", "Trimethoprim", "Cefalexin",
+    "Aciclovir", "Valaciclovir", "Oseltamivir", "Loratadine", "Cetirizine", "Fexofenadine", "Chlorphenamine",
+    "Pseudoephedrine", "Phenylephrine", "Oxymetazoline", "Xylometazoline", "Hydrocortisone", "Betamethasone", "Clobetasol", "Mometasone", "Triamcinolone",
+    "Clotrimazole", "Miconazole", "Fluconazole", "Terbinafine", "Nystatin", "Co-codamol", "Paramol", "Solpadeine", "Panadol", "Anadin",
+    "Diazepam", "Lorazepam", "Zopiclone", "Zolpidem", "Sertraline", "Citalopram", "Escitalopram", "Fluoxetine", "Paroxetine", "Venlafaxine", "Duloxetine", "Mirtazapine", "Amitriptyline",
+    "Quetiapine", "Olanzapine", "Risperidone", "Aripiprazole", "Gabapentin", "Pregabalin", "Carbamazepine", "Sodium valproate", "Lamotrigine", "Levetiracetam",
+    "Sumatriptan", "Rizatriptan", "Zolmitriptan", "Propranolol LA", "Warfarin", "Apixaban", "Rivaroxaban", "Dabigatran", "Edoxaban", "Clopidogrel", "Aspirin low dose",
+    "Isosorbide mononitrate", "Glyceryl trinitrate", "Nicorandil", "Ferrous fumarate", "Ferrous sulfate", "Folic acid", "Cyanocobalamin",
+    "Contraceptive pill", "Microgynon", "Rigevidon", "Cerazette", "Desogestrel", "Levonorgestrel", "EllaOne", "Mirena", "Copper IUD",
+    "Levocetirizine", "Acrivastine", "Lidocaine", "Eutectic lidocaine/prilocaine", "EMLA", "Chlorhexidine", "Povidone-iodine",
+    "Docusate", "Senna", "Bisacodyl", "Lactulose", "Macrogol", "Fybogel", "Loperamide", "Oral rehydration salts", "Ondansetron", "Cyclizine", "Prochlorperazine",
+    "Alendronic acid", "Risedronate", "Ibandronic acid", "Zoledronic acid", "Denosumab", "Calcium carbonate", "Colecalciferol",
+    "Allopurinol", "Colchicine", "Febuxostat", "Tamsulosin", "Finasteride", "Oxybutynin", "Mirabegron", "Tolterodine", "Solifenacin",
+    "Sildenafil", "Tadalafil", "Adrenaline", "Epinephrine", "EpiPen", "Hyoscine", "Scopolamine", "Hyoscine butylbromide", "Buscopan",
+    "Metoclopramide", "Domperidone", "Orlistat", "Prednisolone", "Dexamethasone", "Methotrexate", "Sulfasalazine", "Hydroxychloroquine",
+    "Azathioprine", "Amiodarone", "Digoxin", "Levonorgestrel emergency", "Nicotine gum", "Nicotine patch", "Varenicline",
+    "Zinc oxide", "Calamine", "Diphenhydramine", "Hydrocortisone cream", "Glyceryl trinitrate ointment", "Cholecalciferol", "Ergocalciferol",
+    "Esomeprazole magnesium", "Sodium alginate", "Potassium bicarbonate", "Magnesium carbonate", "Acetylcysteine", "Co-trimoxazole", "Trimethoprim-sulfamethoxazole",
+    "Aluminium hydroxide", "Magnesium hydroxide", "Bismuth subsalicylate", "Valproic acid", "Norethisterone", "Phenergan", "Melatonin", "Betahistine",
 
+    /* --- New common BNF entries & combos --- */
+    "Glimepiride", "Pioglitazone", "Ticagrelor", "Prasugrel",
+    "Chloramphenicol", "Ofloxacin", "Ciprofloxacin", "Levofloxacin",
+    "Piperacillin/tazobactam", "Co-trimoxazole oral suspension",
+    "Beclometasone/formoterol", "Budesonide/formoterol", "Fluticasone/salmeterol",
+    "Glycopyrronium", "Glycopyrrolate",
+    "Topiramate", "Nortriptyline", "Trazodone", "Buspirone",
+    "Ketoconazole shampoo", "Canesten",
+    "Aspirin enteric coated",
+    "GTN spray",
+    "Cholecalciferol high strength",
+    "Diltiazem", "Verapamil",
+    "Amoxicillin/clavulanic acid",
+    "Clobetasone", "Fusidic acid",
+    "Cholecalciferol (vitamin D3) drops",
+    "Glycopyrronium bromide oral",
+    "Oral morphine solution",
+    "Chlorhexidine mouthwash",
+    "Sodium picosulfate",
+    "Movicol",
+    "Guaifenesin",
+    "Dextromethorphan",
+    "Bendrofluazide",
+    "Acetazolamide",
+    "Ticagrelor loading dose",
+    "Pravastatin sodium"
   ],
   "aliases": {
-    "acetaminophen":"Paracetamol",
-    "paracetamol":"Paracetamol",
-    "adrenaline":"Epinephrine",
-    "noradrenaline":"Norepinephrine",
-    "ibu":"Ibuprofen"
+    /* Core synonyms */
+    "acetaminophen": "Paracetamol",
+    "paracetamol": "Paracetamol",
+    "adrenaline": "Epinephrine",
+    "noradrenaline": "Norepinephrine",
+    "ibu": "Ibuprofen",
+
+    /* NSAIDs & analgesics (brands → INN) */
+    "advil": "Ibuprofen",
+    "motrin": "Ibuprofen",
+    "brufen": "Ibuprofen",
+    "nurofen": "Ibuprofen",
+    "anadin ibuprofen": "Ibuprofen",
+    "calpol": "Paracetamol",
+    "tylenol": "Paracetamol",
+    "panadol": "Paracetamol",
+    "disprin": "Aspirin",
+    "aspirin ec": "Aspirin",
+    "low-dose aspirin": "Aspirin",
+    "aspirin 75 mg": "Aspirin",
+    "co-codamol 8/500": "Co-codamol",
+    "co-codamol 30/500": "Co-codamol",
+    "solpadeine plus": "Solpadeine",
+    "paramol 10/500": "Paramol",
+    "voltarol": "Diclofenac",
+    "voltaren": "Diclofenac",
+    "naprosyn": "Naproxen",
+
+    /* PPIs & antacids */
+    "losec": "Omeprazole",
+    "zoton": "Lansoprazole",
+    "nexium": "Esomeprazole",
+    "pantoloc": "Pantoprazole",
+    "gaviscon advance aniseed": "Gaviscon Advance",
+    "pepto bismol": "Pepto-Bismol",
+    "tums antacid": "Tums",
+    "rennies": "Rennie",
+    "zantac": "Ranitidine",
+
+    /* Respiratory (inhalers & combos) */
+    "seretide": "Fluticasone/salmeterol",
+    "symbicort": "Budesonide/formoterol",
+    "fostair": "Beclometasone/formoterol",
+    "ventolin": "Salbutamol",
+    "atrovent": "Ipratropium",
+    "clenil": "Beclometasone",
+    "flixotide": "Fluticasone",
+
+    /* Allergies/antihistamines */
+    "claritin": "Loratadine",
+    "zyrtec": "Cetirizine",
+    "benadryl": "Acrivastine",
+    "piriteze": "Cetirizine",
+    "piriton": "Chlorphenamine",
+    "levocet": "Levocetirizine",
+
+    /* Cough-cold OTC combos (map to main actives for safety baseline) */
+    "lemsip": "Paracetamol",
+    "lemsip max": "Paracetamol",
+    "day nurse": "Paracetamol",
+    "night nurse": "Paracetamol",
+    "beechams": "Paracetamol",
+    "robitussin dm": "Dextromethorphan",
+    "benylin chesty": "Guaifenesin",
+
+    /* Anti-infectives */
+    "augmentin": "Co-amoxiclav",
+    "keflex": "Cefalexin",
+    "flagyl": "Metronidazole",
+    "zovirax": "Aciclovir",
+    "diflucan": "Fluconazole",
+
+    /* Diabetes & endocrine */
+    "glucophage": "Metformin",
+    "januvia": "Sitagliptin",
+    "forxiga": "Dapagliflozin",
+    "jardiance": "Empagliflozin",
+    "synthroid": "Levothyroxine",
+    "eltroxin": "Levothyroxine",
+
+    /* Lipids & cardiology */
+    "lipitor": "Atorvastatin",
+    "crestor": "Rosuvastatin",
+    "zocor": "Simvastatin",
+    "plavix": "Clopidogrel",
+    "imdur": "Isosorbide mononitrate",
+    "nitrolingual": "Glyceryl trinitrate",
+    "gtn": "Glyceryl trinitrate",
+    "gtn spray": "Glyceryl trinitrate",
+
+    /* CNS & psych */
+    "seroquel": "Quetiapine",
+    "zyprexa": "Olanzapine",
+    "risperdal": "Risperidone",
+    "abilify": "Aripiprazole",
+    "lyrica": "Pregabalin",
+    "neurontin": "Gabapentin",
+    "tegretol": "Carbamazepine",
+    "lamictal": "Lamotrigine",
+    "keppra": "Levetiracetam",
+    "depakote": "Sodium valproate",
+
+    /* Urology & men’s health */
+    "flomax": "Tamsulosin",
+    "proscar": "Finasteride",
+
+    /* Nausea/GI */
+    "zofran": "Ondansetron",
+    "motilium": "Domperidone",
+    "maxolon": "Metoclopramide",
+    "imodium": "Loperamide",
+    "movicol": "Macrogol",
+
+    /* Dermatology & topical */
+    "canesten": "Clotrimazole",
+    "daktarin": "Miconazole",
+    "nizoral shampoo": "Ketoconazole shampoo",
+    "emla": "Eutectic lidocaine/prilocaine",
+
+    /* Women’s health & contraception */
+    "morning after pill": "Levonorgestrel emergency",
+    "ellaone": "EllaOne",
+
+    /* Smoking cessation */
+    "nicorette gum": "Nicotine gum",
+    "nicorette patch": "Nicotine patch",
+    "champix": "Varenicline",
+
+    /* Antiemergency / anaphylaxis */
+    "epipen": "Epinephrine",
+
+    /* Antispasmodics */
+    "buscopan": "Hyoscine butylbromide",
+
+    /* Misc */
+    "moviprep": "Sodium picosulfate",
+    "oral morph": "Oral morphine solution",
+    "chlorhexidine gluconate": "Chlorhexidine",
+    "glycopyrrolate": "Glycopyrronium"
   }
 }
