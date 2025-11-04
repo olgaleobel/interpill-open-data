@@ -1,4 +1,5 @@
-  "known": [
+{
+"known": [
     "Paracetamol", "Ibuprofen", "Aspirin", "Diclofenac", "Naproxen", "Codeine", "Dihydrocodeine", "Tramadol", "Morphine", "Oxycodone", "Fentanyl", "Buprenorphine",
 "Metformin", "Gliclazide", "Sitagliptin", "Dapagliflozin", "Empagliflozin", "Insulin human", "Levothyroxine", "Carbimazole", "Propylthiouracil",
 "Atorvastatin", "Simvastatin", "Rosuvastatin", "Pravastatin", "Amlodipine", "Lisinopril", "Ramipril", "Enalapril", "Perindopril", "Losartan", "Candesartan", "Valsartan",
@@ -33,3 +34,5 @@
     "noradrenaline":"Norepinephrine",
     "ibu":"Ibuprofen"
   }
+
+}
